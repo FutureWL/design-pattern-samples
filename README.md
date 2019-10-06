@@ -1,5 +1,5 @@
-# design-patterns
-大话设计模式
+# design-pattern-samples
+设计模式
 
 1. 代码无错就是优？—— 简单工厂模式
 2. 商场促销 —— 策略模式

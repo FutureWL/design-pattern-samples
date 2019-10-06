@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern-samples.iml" filepath="$PROJECT_DIR$/design-pattern-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-carp/design-principles-carp.iml" filepath="$PROJECT_DIR$/design-principles-carp/design-principles-carp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-dip/design-principles-dip.iml" filepath="$PROJECT_DIR$/design-principles-dip/design-principles-dip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-isp/design-principles-isp.iml" filepath="$PROJECT_DIR$/design-principles-isp/design-principles-isp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-lod/design-principles-lod.iml" filepath="$PROJECT_DIR$/design-principles-lod/design-principles-lod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-lsp/design-principles-lsp.iml" filepath="$PROJECT_DIR$/design-principles-lsp/design-principles-lsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-ocp/design-principles-ocp.iml" filepath="$PROJECT_DIR$/design-principles-ocp/design-principles-ocp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principles-srp/design-principles-srp.iml" filepath="$PROJECT_DIR$/design-principles-srp/design-principles-srp.iml" />
     </modules>
   </component>
 </project>

@@ -6,11 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="design-patterns" />
+        <module name="design-principles-lod" />
+        <module name="design-principles-carp" />
+        <module name="design-principles-srp" />
+        <module name="design-principles-ocp" />
+        <module name="design-principles-dip" />
+        <module name="design-principles-lsp" />
+        <module name="design-principles-isp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="design-pattern-samples" target="1.5" />
       <module name="design-patterns" target="1.5" />
+      <module name="design-principles-carp" target="1.8" />
+      <module name="design-principles-dip" target="1.8" />
+      <module name="design-principles-isp" target="1.8" />
+      <module name="design-principles-lod" target="1.8" />
+      <module name="design-principles-lsp" target="1.8" />
+      <module name="design-principles-ocp" target="1.8" />
+      <module name="design-principles-srp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

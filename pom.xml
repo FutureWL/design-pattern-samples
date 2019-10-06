@@ -5,8 +5,20 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.futurewl</groupId>
-    <artifactId>design-patterns</artifactId>
+    <artifactId>design-pattern-samples</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <packaging>pom</packaging>
+    <description>
+        软件架构设计原则
+    </description>
+    <modules>
+        <module>design-principles-ocp</module>
+        <module>design-principles-dip</module>
+        <module>design-principles-srp</module>
+        <module>design-principles-isp</module>
+        <module>design-principles-lod</module>
+        <module>design-principles-lsp</module>
+        <module>design-principles-carp</module>
+    </modules>
 </project>
